@@ -1,3 +1,28 @@
 body {
   background-color: cornflowerblue;
 }
+
+#dino-pen {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.dino {
+  border: 3px dotted blueviolet;
+  padding: 20px;
+  margin: 20px;
+}
+
+#homework {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.assignment {
+  border: 3px solid blueviolet;
+  background-color: lightblue;
+  padding: 20px;
+  margin: 20px;
+}
